@@ -1,4 +1,4 @@
-<h2> Jpa, Hibernate Spring Data  </h2>
+<h2> Projet Spring Angular JWT </h2>
 # Projet de Gestion des comptes bancaires
 <h4>Réaliser par Maryam Nfad </h4>
 Le projet de Digital Banking vise à développer une application complète de gestion de comptes bancaires, offrant aux utilisateurs une plateforme pour gérer leurs transactions financières.
